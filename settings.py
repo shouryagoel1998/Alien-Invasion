@@ -1,6 +1,7 @@
 class Settings:
     """A class to store all the settings for Alien Invasion."""
 
+    #Default constructor
     def __init__(self):
         """Initialize the game's settings."""
         self.screen_width = 1200
